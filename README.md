@@ -1,16 +1,50 @@
-## Hi there 👋
+# Mykich - About me
 
-<!--
-**nikitosshvets1206-collab/nikitosshvets1206-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+## Future developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+
+-HTML  
+
+```html
+<p>Hello world!<p>
+```  
+
+-CSS  
+
+```css
+p{color: red}
+```  
+
+-~~JavaScript~~ *studying*  
+```javascript
+<script>
+alert( 'Hello, world!' );
+</script>
+```
+-~~Git~~  *studying*
+
+---
+
+### Gamedev
+
+-Unity
+
+-~~C#~~ *in process*
+```c#
+Console.WriteLine("Hello, World!");
+```
+-~~Python~~ *in process*  
+```python
+print("Hello!")
+```
+-~~Java~~ *in process*
+```java
+System.out.println("Hello, World");
+```
+
+# Additional Info
+
+Professional Vibecoder
